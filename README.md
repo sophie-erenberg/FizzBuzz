@@ -80,7 +80,7 @@ we continually increment. It is a classic technical interview question.
 
 Let's explore a solution written in Java.
 
-## A Java version
+## A Java version!
 
 ```java
 /**
